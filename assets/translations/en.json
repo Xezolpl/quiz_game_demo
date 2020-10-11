@@ -1,0 +1,12 @@
+{
+    "start" : "START",
+    "lets_go": "LET'S GO",
+    "close": "CLOSE",
+    "replay": "REPLAY",
+    "next": "NEXT",
+    "play_again": "PLAY AGAIN",
+    "app_title": "Quiz Game Demo",
+    "app_mechanic_desc": "The player's task is to predict in which order the things will happen on the video.",
+    "the_end": "THE END",
+    "thats_all": "That's all the songs ;)"
+}

@@ -1,0 +1,12 @@
+{
+    "start" : "START",
+    "lets_go": "ZACZYNAJMY!!",
+    "close": "ZAMKNIJ",
+    "replay": "REPLAY",
+    "next": "NASTĘPNA",
+    "play_again": "OD NOWA",
+    "app_title": "Quiz Game Demo",
+    "app_mechanic_desc": "Gracz ma za zadanie przewidzieć, w jakiej kolejności wystąpią zdarzenia w filmiku piosenki.",
+    "the_end": "KONIEC",
+    "thats_all": "To już wszystkie piosenki."
+}
