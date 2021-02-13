@@ -23,9 +23,7 @@ class _LocalVideoPlayerState extends State<LocalVideoPlayer> {
   void initState() {
     super.initState();
     //Pre-set the player controller with asset video
-    _controller =
-        VideoPlayerController.asset('assets/videos/${videoInfo.id}.mp4');
-
+    _controller = VideoPlayerController.asset('assets/videos/1.mp4');
     //Local variables to make code more simple
     Duration option0Time = videoInfo.optionsTimes[0],
         option1Time = videoInfo.optionsTimes[1],
